@@ -1,8 +1,8 @@
 import sys, requests, json
 ses=requests.Session()
 id = []
-token = "EAAGNO4a7r2wBABheSn8urqtgMKnQt7XjRDE23wzZBwCdohKiwUbZA5zoXBI9teZB65GYpuIGKCU8JCNx9jOspx15tcLAPjWN2CYuIjtOS8ZBiB1keZCLxhLWtoZAB6ZAbLZBIeDH1I5uM2P1hVY8E02fw6ZA13HGPC5J4HgH6xdxJ9CYnbXJkS6m4G1p4LZBQxe4EZD"
-cok = "datr=UvhMY9H1yIPIvN0sz2XfKIgH;sb=UvhMYwKwS7tV2nFKzuHxSSc_;locale=id_ID;wd=360x627;c_user=100086710907138;xs=12:fryLyvk9zcPltg:2:1666062926:-1:-1;m_page_voice=100086710907138;zsh=ASQ2F66Vq1vUYH9THvdu1OI19MozdRS29I1Qshnmk3Le-smJwN5Y56gzwTEqtfq_nBM03M2G_z6gTcMHYVbzHj5xWwHfAR-7XR5d8hRi4rTH1oEfdKwj1IrtZ4Sk_Hig8g1X1pnbn4bvsdBJS26qjyf0tHviqAmjNj7aIezP3rpuHATzKVThwm9VA89cGEVHvFW6GDc-OXfFGRFWymAjghFLNVHF2-z-k28nPmkWTSmSXns_K1OhqQhT3VQ288MNqmGDjOfxfmAJW9O6J0KE5gXUUjco98BsHNrf8V7nmL-5UvQNvCTlIK410tQvGGNxldxX;fr=0EmVjyNFtFbOH7oWe.AWWks-yjJPpnaQOTZPaEC4Qw-7s.BjTPhS.PD.AAA.0.0.BjUjIx.AWWm5HgX03k;"
+token = "token kamu"
+cok = "cookie kamu"
 cookie = {"cookie":cok}
 
 idt = input("masukan id : ")
